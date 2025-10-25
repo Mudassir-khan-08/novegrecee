@@ -1,11 +1,11 @@
-Flask==2.3.2
+Flask==2.3.0
 flask-cors==6.0.1
 gunicorn==21.2.0
 python-dotenv==1.0.1
 requests==2.32.3
 pytz==2025.2
 Jinja2==2.11.3
-Werkzeug==1.0.1
+Werkzeug==
 
 # Optional if using MongoDB
 pymongo==3.11.4
